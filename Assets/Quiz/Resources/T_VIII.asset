@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: T_VIII
+  m_EditorClassIdentifier: 
+  categoryName: Test VIII
+  questions:
+  - questionInfo: "\xBFCual es el objetivo de una red informatica?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - El objetivo de una red informatica es que haya mejor wifi
+    - "El objetivo de una red inform\xE1tica es que los ordenadores puedan compartir
+      sus recursos a distancia"
+    - El objetivo de una red informatica es tengas mejor conexion
+    - "El objetivo de una red informatica es que cada persona pueda tener im\xE1genes
+      en su computadora o dispositivo"
+    correctAns: "El objetivo de una red inform\xE1tica es que los ordenadores puedan
+      compartir sus recursos a distancia"
+  - questionInfo: "\xBFDe que formas se puede clasificar las redes inform\xE1ticas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Se clasifica de tres formas con su topograf\xEDa, alcance y relaci\xF3n entre
+      las computadoras"
+    - "Se clasifica con su topograf\xEDa, alcance y wifi"
+    - "Se clasifica con su alcance, relaci\xF3n entre las computadoras y dispositivos"
+    - "Se clasifica \xFAnicamente con su alcance"
+    correctAns: "Se clasifica de tres formas con su topograf\xEDa, alcance y relaci\xF3n
+      entre las computadoras"
+  - questionInfo: "\xBFCual de estos es un tipo de la clasificaci\xF3n alcance?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Red de anillo
+    - "Conexiones inal\xE1mbricas"
+    - Red en bus
+    - "Red de \xE1rea personal (PAN)"
+    correctAns: "Red de \xE1rea personal (PAN)"
+  - questionInfo: "\xBFQue tipo de red es la internet?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "El internet es una red de \xE1rea amplia (WAN)"
+    - "El internet es una red de \xE1rea local (LAN)"
+    - "El internet es una red de \xE1rea de campus (CAN)"
+    - "El internet es una red de \xE1rea personal (PAN)"
+    correctAns: "El internet es una red de \xE1rea amplia (WAN)"
+  - questionInfo: "\xBFCu\xE1les son los m\xE9todos que gu\xEDan en la planificaci\xF3n
+      en el desarrollo del software? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Herramientas
+    - 'Procesos '
+    - 'Fases '
+    - "Evaluaci\xF3n"
+    correctAns: Fases
+  - questionInfo: "\xBFC\xF3mo se realiza el dise\xF1o del software?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Con la ayuda de toda la informaci\xF3n recogida sobre requisitos y an\xE1lisis"
+    - "Con la ayuda de toda informaci\xF3n y an\xE1lisis"
+    - "Sin ayuda de toda la informaci\xF3n recogida sobre requisitos y an\xE1lisis"
+    - Software especializado en el desarrollo de las bases de datos relacionales
+    correctAns: "Con la ayuda de toda la informaci\xF3n recogida sobre requisitos
+      y an\xE1lisis"
+  - questionInfo: "La evaluaci\xF3n y validaci\xF3n del programa consta de: "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Evaluaci\xF3n esperada"
+    - Prueba piloto
+    - "Evaluaci\xF3n pedag\xF3gica"
+    - Es el ambiente formal y social
+    correctAns: Prueba piloto
+  - questionInfo: "\xBFQue es un proceso de software?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Es similar al ciclo de vida del software
+    - "Es un conjunto estructurado de actividades para dise\xF1ar y probar sistemas
+      de software"
+    - "Son m\xE9todos de desarrollo de software"
+    - "Ingenier\xEDa econ\xF3mica"
+    correctAns: "Es un conjunto estructurado de actividades para dise\xF1ar y probar
+      sistemas de software"
+  - questionInfo: "La incorporaci\xF3n de multimedia en la inform\xE1tica se produjo
+      en generaci\xF3n:"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sexta
+    - Segunda
+    - Cuarta
+    - Tercera
+    correctAns: Cuarta
+  - questionInfo: "La unidad m\xEDnima de informaci\xF3n en inform\xE1tica es:"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Bit
+    - Gigabyte
+    - Registro
+    - Byte
+    correctAns: Bit

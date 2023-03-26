@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: T_VII
+  m_EditorClassIdentifier: 
+  categoryName: Test VII
+  questions:
+  - questionInfo: "\xBFQu\xE9 funci\xF3n realizan los compiladores y los int\xE9rpretes?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Son programas espec\xEDficos que nos ayudan a programar tareas rutinarias"
+    - "Traducen autom\xE1ticamente un programa escrito en lenguaje de alto nivel
+      a lenguaje m\xE1quina"
+    - Ejecutan las instrucciones de un programa
+    - s
+    correctAns: "Traducen autom\xE1ticamente un programa escrito en lenguaje de alto
+      nivel a lenguaje m\xE1quina"
+  - questionInfo: "\xBFCu\xE1l es la fase del compilador que genera un c\xF3digo
+      que no corresponde ni al lenguaje de entrada ni al lenguaje de salida del compilador?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "An\xE1lisis l\xE9xico"
+    - "An\xE1lisis sint\xE1ctico"
+    - "Generador de c\xF3digo intermedio"
+    - "Generador de c\xF3digo objeto"
+    correctAns: "Generador de c\xF3digo intermedio"
+  - questionInfo: "\xBFCu\xE1l es la fase del compilador que lleva a cabo la verificaci\xF3n
+      en los tipos de datos y que estos se hayan declarado antes de ser utilizados?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "An\xE1lisis l\xE9xico"
+    - "Generador de c\xF3digo intermedio"
+    - "An\xE1lisis sint\xE1ctico"
+    - "An\xE1lisis sem\xE1ntico"
+    correctAns: "An\xE1lisis sem\xE1ntico"
+  - questionInfo: "\xBFQue tipo de problem\xE1tica se podr\xE1 solucionar con tecnolog\xEDa
+      de base de datos?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Problemas cotidianos que requieran del uso inteligente de datos
+    - "Situaciones que requieran respuestas r\xE1pidas a solicitudes de informaci\xF3n"
+    - Sirve para establecer conectividad a redes sociales
+    - Sirve para resolver problemas de hardware
+    correctAns: Problemas cotidianos que requieran del uso inteligente de datos
+  - questionInfo: "\xBFLas bases de datos relacionales consisten en un hardware o
+      software?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Es un hardware avanzado que guarda informaci\xF3n"
+    - Es un hardware que esta sobre un software
+    - "Es un software con rutinas especializadas en almacenamiento de informaci\xF3n"
+    - "Aplicaci\xF3n cliente servidor que sirve para las comunicaciones"
+    correctAns: "Es un software con rutinas especializadas en almacenamiento de informaci\xF3n"
+  - questionInfo: "\xBFQue se entiende por sistema generador de base de datos?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Hardware donde se implementa los sistemas de informaci\xF3n"
+    - "Sistema avanzado que ayuda a la ejecuci\xF3n de las bases de datos"
+    - Sistema computacional que maneja el disco duro
+    - Software especializado en el desarrollo de las bases de datos relacionales
+    correctAns: Software especializado en el desarrollo de las bases de datos relacionales
+  - questionInfo: "\xBFCuales son los ambientes o \xE1mbitos de la ingenier\xEDa
+      econ\xF3mica?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ambiente f\xEDsico y el ambiente econ\xF3mico"
+    - Es el ambiente social y cultura
+    - Es el autoestima y los valores
+    - Es el ambiente formal y social
+    correctAns: "Ambiente f\xEDsico y el ambiente econ\xF3mico"
+  - questionInfo: "\xBFCu\xE1l es la rama que calcula las unidades monetarias y las
+      determinaciones que se toman para lograr que una empresa sea altamente rentable
+      y competitiva?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ingenier\xEDa moderna"
+    - "Ingenier\xEDa comunicacional"
+    - "Ingenier\xEDa f\xEDsica"
+    - "Ingenier\xEDa econ\xF3mica"
+    correctAns: "Ingenier\xEDa Econ\xF3mica"
+  - questionInfo: Conjunto de bienes que sirven para producir otros bienes, estos
+      pueden ser edificios, maquinaria, efectivo, etc.
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Ingenier\xEDa econ\xF3mica"
+    - "Inter\xE9s compuesto"
+    - Valor monetario
+    - Capital
+    correctAns: Capital
+  - questionInfo: "\xBFQue significa \"I like programming in python\"?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - No me gusta programar en Python
+    - Me gusta crear programas
+    - 'Me gusta programar en Python '
+    - "Me gusta\xEDa programar en Python "
+    correctAns: 'Me gusta programar en Python '

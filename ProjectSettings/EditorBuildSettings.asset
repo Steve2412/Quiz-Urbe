@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Quiz/GameMenu.unity
+    guid: 58aad8e5b2395b74bb8a0db2355f9f6c
+  - enabled: 1
+    path: Assets/Quiz/GameScene_1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Quiz/GameScene_2.unity
+    guid: fb83f47d6f93c3747b75157d922fd7d5
+  - enabled: 1
+    path: Assets/Quiz/GameScene_3.unity
+    guid: e621ce01defc31348b5f4fa643cd5705
+  - enabled: 1
+    path: Assets/Quiz/GameScene_4.unity
+    guid: b089ec14d21cfdc42afb74442f59c2ca
+  - enabled: 1
+    path: Assets/Quiz/GameScene_5.unity
+    guid: def6be4d127e339459cb7b77488190dd
+  - enabled: 1
+    path: Assets/Quiz/GameScene_6.unity
+    guid: 252cf617d3fdff24e98efc64b3a9563b
+  - enabled: 1
+    path: Assets/Quiz/GameScene_7.unity
+    guid: 8d5341ac8adba8045b06b00c3709f7fa
+  - enabled: 1
+    path: Assets/Quiz/GameScene_8.unity
+    guid: 3e4ef8fb31fc05c47a59e3421d7f674a
+  - enabled: 1
+    path: Assets/Quiz/GameScene_9.unity
+    guid: 42c3048f889095642acf494bb3cdbebf
+  - enabled: 1
+    path: Assets/Quiz/GameScene_10.unity
+    guid: a760f9056ce2acb4681808d7685b958f
+  - enabled: 1
+    path: Assets/Quiz/GameScene_11.unity
+    guid: aa0ad9c859289af4094e8db4bef4203a
+  - enabled: 1
+    path: Assets/Quiz/GameScene_12.unity
+    guid: 937c9d1896a3ec2429ab39c2841a8d64
+  m_configObjects: {}

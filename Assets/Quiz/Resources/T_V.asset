@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: T_V
+  m_EditorClassIdentifier: 
+  categoryName: Test V
+  questions:
+  - questionInfo: "\xBFCu\xE1l es uno de los principales objetivos del desarrollo
+      sostenible? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Fomentar el crecimiento econ\xF3mico ilimitado"
+    - "Mejorar la calidad de vida de la poblaci\xF3n actual y futura"
+    - Acelerar el agotamiento de los recursos naturales
+    - Aumentar la brecha entre ricos y pobres en todo el mundo
+    correctAns: "Mejorar la calidad de vida de la poblaci\xF3n actual y futura"
+  - questionInfo: "\xBFCu\xE1l es la medida m\xE1s com\xFAn de tendencia central
+      utilizada en estad\xEDstica? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Media
+    - Mediana
+    - Moda
+    - Varianza
+    correctAns: Media
+  - questionInfo: "\xBFCu\xE1l es el t\xE9rmino que se utiliza para describir un
+      subprograma en programaci\xF3n que puede acceder y modificar variables en el
+      programa principal? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Funci\xF3n"
+    - Procedimiento
+    - Clase
+    - Objeto
+    correctAns: Procedimiento
+  - questionInfo: "\xBFCu\xE1l es el tiempo verbal utilizado para hablar de eventos
+      pasados que ocurrieron antes de otro evento en el pasado? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Pasado simple
+    - Pasado continuo
+    - Pasado perfecto
+    - Pasado perfecto continuo
+    correctAns: Pasado perfecto
+  - questionInfo: "\xBFCu\xE1l de estos componentes de hardware se utiliza para almacenar
+      datos a largo plazo en una computadora? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - CPU
+    - RAM
+    - Disco duro
+    - Tarjeta de red
+    correctAns: Disco duro
+  - questionInfo: "\xBFCu\xE1l es el prop\xF3sito de un sistema operativo en una
+      computadora? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ejecutar aplicaciones
+    - Administrar recursos de hardware
+    - "Controlar la conexi\xF3n a internet"
+    - Proteger contra el malware
+    correctAns: Administrar recursos de hardware
+  - questionInfo: "\xBFCu\xE1l es uno de los beneficios de utilizar energ\xEDa renovable
+      en lugar de combustibles f\xF3siles? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Produce menos contaminaci\xF3n"
+    - "Es m\xE1s barata"
+    - "Es m\xE1s f\xE1cil de transportar"
+    - "Es m\xE1s eficiente"
+    correctAns: "Produce menos contaminaci\xF3n"
+  - questionInfo: "\xBFCu\xE1l es la forma correcta del verbo \"to be\" en tercera
+      persona singular (he, she, it) en tiempo presente simple? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Are
+    - Am
+    - Is
+    - Be
+    correctAns: Is
+  - questionInfo: "\xBFCu\xE1l es el componente del hardware de la computadora que
+      se encarga de la gesti\xF3n y procesamiento de las instrucciones que recibe? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Tarjeta de sonido
+    - "Tarjeta gr\xE1fica"
+    - Disco duro
+    - Unidad central de procesamiento (CPU)
+    correctAns: Unidad central de procesamiento (CPU)
+  - questionInfo: "En el paradigma de programaci\xF3n orientada a objetos, \xBFqu\xE9
+      es un atributo? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Una funci\xF3n que se utiliza para modificar el valor de otra variable"
+    - "Una variable que se encuentra dentro de una funci\xF3n"
+    - Un objeto que puede ser utilizado para llamar a otro objeto
+    - "Una variable que forma parte de un objeto y describe sus caracter\xEDsticas"
+    correctAns: "Una variable que forma parte de un objeto y describe sus caracter\xEDsticas"

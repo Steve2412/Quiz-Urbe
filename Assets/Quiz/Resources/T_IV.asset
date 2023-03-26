@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: T_IV
+  m_EditorClassIdentifier: 
+  categoryName: Test IV
+  questions:
+  - questionInfo: "\xBFCu\xE1l es la regla de la cadena?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "F\xF3rmula para encontrar la pendiente de una curva"
+    - "M\xE9todo para integrar funciones trigonom\xE9tricas"
+    - "M\xE9todo para diferenciar funciones compuestas"
+    - "F\xF3rmula para encontrar la suma de una serie infinita"
+    correctAns: "M\xE9todo para diferenciar funciones compuestas"
+  - questionInfo: "\xBFQu\xE9 es un grafo? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Una funci\xF3n matem\xE1tica"
+    - "Un conjunto de n\xFAmeros reales"
+    - "Una estructura de datos en programaci\xF3n"
+    - "Una colecci\xF3n de puntos y l\xEDneas conectados"
+    correctAns: "Una colecci\xF3n de puntos y l\xEDneas conectados"
+  - questionInfo: "\xBFQu\xE9 es un bucle for en programaci\xF3n? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Una estructura que se utiliza para repetir una porci\xF3n de c\xF3digo hasta
+      que se cumpla una condici\xF3n"
+    - "Una funci\xF3n que se utiliza para ordenar una lista de datos"
+    - "Un m\xE9todo que se utiliza para encontrar el menor valor en una lista"
+    - "Un operador utilizado para realizar c\xE1lculos matem\xE1ticos complejos"
+    correctAns: "Una estructura que se utiliza para repetir una porci\xF3n de c\xF3digo
+      hasta que se cumpla una condici\xF3n"
+  - questionInfo: "\xBFCu\xE1l es el tiempo verbal que se utiliza para hablar de
+      eventos futuros?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Presente simple
+    - Pasado simple
+    - Futuro simple
+    - Presente continuo
+    correctAns: Futuro simple
+  - questionInfo: "\xBFEn qu\xE9 deporte se utiliza una raqueta para golpear una
+      pelota hacia atr\xE1s y hacia adelante sobre una red?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Tenis de mesa
+    - Voleibol
+    - "B\xE1dminton"
+    - Tenis
+    correctAns: Tenis
+  - questionInfo: "\xBFCu\xE1l es el t\xE9rmino que se utiliza para describir un
+      algoritmo que se ejecuta en tiempo constante, independientemente del tama\xF1o
+      de la entrada? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Algoritmo eficiente
+    - "Orden de complejidad logar\xEDtmico"
+    - Algoritmo polinomial
+    - Algoritmo de complejidad constante
+    correctAns: Algoritmo de complejidad
+  - questionInfo: "\xBFCu\xE1l es la ley de los exponentes utilizada en el c\xE1lculo
+      y la matem\xE1tica? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ley de la suma
+    - Ley del producto
+    - Ley del cociente
+    - Ley de la potencia
+    correctAns: Ley de la potencia
+  - questionInfo: "\xBFQu\xE9 es un \xE1rbol binario en programaci\xF3n? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Una estructura de datos en la que cada nodo tiene al menos tres hijos
+    - Una estructura de datos en la que cada nodo tiene exactamente dos hijos
+    - "Una funci\xF3n que se utiliza para buscar elementos en una lista"
+    - "Una estructura de control utilizada para repetir un bloque de c\xF3digo"
+    correctAns: Una estructura de datos en la que cada nodo tiene exactamente dos
+      hijos
+  - questionInfo: "\xBFCu\xE1l es el tiempo verbal utilizado para hablar de eventos
+      pasados que ocurrieron antes de otro evento en el pasado? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Pasado simple
+    - Pasado continuo
+    - Pasado perfecto
+    - Pasado perfecto continuo
+    correctAns: Pasado perfecto
+  - questionInfo: "\xBFCu\xE1l de estas actividades recreacionales es una forma de
+      expresi\xF3n art\xEDstica que utiliza la voz para generar sonidos y ritmos?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Pintura
+    - Escultura
+    - Danza
+    - Canto
+    correctAns: Canto

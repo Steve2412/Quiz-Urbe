@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: T_IX
+  m_EditorClassIdentifier: 
+  categoryName: Test IX
+  questions:
+  - questionInfo: "\xBFCu\xE1ntos tipos de redes inform\xE1ticas hay?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 2
+    - 3
+    - 5
+    - 7
+    correctAns: 7
+  - questionInfo: "La conexi\xF3n f\xEDsica en la que se basan estos tipos de redes
+      puede presentarse por medio de cables o llevarse a cabo con tecnolog\xEDa inal\xE1mbrica.
+      A menudo, las redes f\xEDsicas conforman la base para varias redes de comunicaci\xF3n
+      l\xF3gicas, las llamadas"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Local \xC1rea Networks (LAN)"
+    - "Personal \xC1rea Networks (PAN)"
+    - "Global \xC1rea Networks (GAN)"
+    - Virtual Private Networks (VPN)
+    correctAns: Virtual Private Networks (VPN)
+  - questionInfo: "\xBF(SAN) es un tipo de red?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Verdadero
+    - 
+    - Falso
+    - 
+    correctAns: Verdadero
+  - questionInfo: "\xBFLas fibras \xF3pticas permiten velocidades de entre 100 y
+      1.000 Mbps a largas distancias?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Verdadero
+    - 
+    - Falso
+    - 
+    correctAns: Verdadero
+  - questionInfo: "\xBFCu\xE1l es el primer paso para ejecutar un programa?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Es un sistema que permite almacenar y procesar informaci\xF3n"
+    - Es el programa de control maestro del computador
+    - Es el sistema de unidades que permiten tratar los datos
+    - "Es el programa que permite hacer c\xE1lculos matem\xE1ticos"
+    correctAns: Es el programa de control maestro del computador
+  - questionInfo: "\xBFCu\xE1l es la pieza de software que controla a un dispositivo
+      en particular?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - IRQ
+    - DRAM
+    - BIOS
+    - DRIVER
+    correctAns: DRIVER
+  - questionInfo: " Controla la ejecuci\xF3n de programas en m\xE1s de un procesador"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Multiproceso
+    - Monotareas
+    - Multitarea
+    - Multiusuario
+    correctAns: Multiproceso
+  - questionInfo: "\xBFCu\xE1l videojuego es el m\xE1s vendido de todos los tiempos?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Minecraft
+    - Mario Bros
+    - Tetris
+    - Fortnite
+    correctAns: "Es un conjunto estructurado de actividades para dise\xF1ar y probar
+      sistemas de software"
+  - questionInfo: "\xBFCu\xE1l fue uno de los primeros juegos de la consola Atari?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Pac Man
+    - Space Invaders
+    - Combat
+    - E.T. the Extra-Terrestrial
+    correctAns: Combat
+  - questionInfo: "\xBFQu\xE9 es un sistema operativo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Es un sistema que permite almacenar y procesar informaci\xF3n"
+    - Es el programa de control maestro del computador
+    - Es el sistema de unidades que permiten tratar los datos
+    - "Es el programa que permite hacer c\xE1lculos matem\xE1ticos"
+    correctAns: Es el programa de control maestro del computador

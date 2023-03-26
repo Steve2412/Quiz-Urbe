@@ -1,0 +1,259 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: T_XII
+  m_EditorClassIdentifier: 
+  categoryName: Test XII
+  questions:
+  - questionInfo: "\xBFQu\xE9 es un dise\xF1o de investigaci\xF3n?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "El plan global para llevar a cabo una investigaci\xF3n"
+    - "Una lista detallada de tareas para realizar una investigaci\xF3n"
+    - "Una lista detallada de tareas para realizar una investigaci\xF3n"
+    - "Un an\xE1lisis detallado de los resultados previstos de la investigaci\xF3n"
+    correctAns: "El plan global para llevar a cabo una investigaci\xF3n"
+  - questionInfo: "\xBFCu\xE1l es el m\xE9todo cient\xEDfico utilizado en la investigaci\xF3n?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Observaci\xF3n, an\xE1lisis, conclusi\xF3n"
+    - "Conclusi\xF3n, an\xE1lisis, observaci\xF3n"
+    - "An\xE1lisis, observaci\xF3n, conclusi\xF3n"
+    - "Observaci\xF3n, hip\xF3tesis, experimentaci\xF3n, an\xE1lisis, conclusi\xF3n"
+    correctAns: "Observaci\xF3n, hip\xF3tesis, experimentaci\xF3n, an\xE1lisis, conclusi\xF3n"
+  - questionInfo: "\xBFPara qu\xE9 se utiliza un bucle?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Para almacenar datos
+    - "Para realizar operaciones matem\xE1ticas"
+    - "Para repetir una secci\xF3n de c\xF3digo varias veces"
+    - Ninguna de las anteriores
+    correctAns: "Para repetir una secci\xF3n de c\xF3digo varias veces"
+  - questionInfo: "\xBFQu\xE9 es un algoritmo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Una herramienta para construir programas
+    - Un problema complejo que debe resolverse
+    - "Una secuencia l\xF3gica de pasos que resuelve un problema"
+    - "Un archivo que contiene c\xF3digo fuente en un lenguaje de programaci\xF3n"
+    correctAns: "Una secuencia l\xF3gica de pasos que resuelve un problema"
+  - questionInfo: "\xBFCu\xE1l es el teorema de la divergencia?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Relaciona la integral de una funci\xF3n vectorial en una superficie cerrada
+      con la integral de su divergencia en su interior"
+    - "Establece que la integral de una funci\xF3n vectorial en una superficie abierta
+      es igual a la integral de su campo normal en su borde"
+    - "Establece la relaci\xF3n entre la derivada parcial de una funci\xF3n compuesta
+      y las derivadas parciales de sus componentes"
+    - Ninguna de las anteriores
+    correctAns: "Relaciona la integral de una funci\xF3n vectorial en una superficie
+      cerrada con la integral de su divergencia en su interior"
+  - questionInfo: "\xBFC\xF3mo se llama el proceso de separaci\xF3n de un s\xF3lido
+      disuelto en un l\xEDquido mediante el uso de una membrana semipermeable?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Destilaci\xF3n"
+    - "Filtraci\xF3n "
+    - Osmosis inversa
+    - "Extracci\xF3n"
+    correctAns: Osmosis inversa
+  - questionInfo: "\xBFQu\xE9 es un grafo? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Una funci\xF3n matem\xE1tica"
+    - "Un conjunto de n\xFAmeros reales"
+    - "Una estructura de datos en programaci\xF3n"
+    - "Una colecci\xF3n de puntos y l\xEDneas conectados"
+    correctAns: "Una colecci\xF3n de puntos y l\xEDneas conectados"
+  - questionInfo: "\xBFQu\xE9 es un bucle for en programaci\xF3n? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Una estructura que se utiliza para repetir una porci\xF3n de c\xF3digo hasta
+      que se cumpla una condici\xF3n"
+    - "Una funci\xF3n que se utiliza para ordenar una lista de datos"
+    - "Un m\xE9todo que se utiliza para encontrar el menor valor en una lista"
+    - "Un operador utilizado para realizar c\xE1lculos matem\xE1ticos complejos"
+    correctAns: "Una estructura que se utiliza para repetir una porci\xF3n de c\xF3digo
+      hasta que se cumpla una condici\xF3n"
+  - questionInfo: "\xBFCu\xE1l es el tiempo verbal utilizado para hablar de eventos
+      pasados que ocurrieron antes de otro evento en el pasado?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Pasado simple
+    - Pasado continuo
+    - Pasado perfecto
+    - Pasado perfecto continuo
+    correctAns: Pasado perfecto
+  - questionInfo: "\xBFCu\xE1l de estos componentes de hardware se utiliza para almacenar
+      datos a largo plazo en una computadora? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - CPU
+    - RAM
+    - Disco duro
+    - Tarjeta de red
+    correctAns: Disco duro
+  - questionInfo: "\xBFCu\xE1l de las siguientes cl\xE1usulas del lenguaje SQL se
+      utiliza para filtrar datos en una consulta? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - FROM
+    - ORDER BY
+    - GROUP BY
+    - WHERE
+    correctAns: WHERE
+  - questionInfo: "\xBFCu\xE1l de las siguientes es una t\xE9cnica utilizada para
+      estimar la duraci\xF3n de las actividades en un proyecto?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Planificaci\xF3n \xE1gil"
+    - Diagrama de Gantt
+    - "An\xE1lisis del valor ganado"
+    - PERT (Program Evaluation and Review Technique)
+    correctAns: PERT (Program Evaluation and Review Technique)
+  - questionInfo: "\xBFCu\xE1l es el prop\xF3sito de una auditor\xEDa de sistemas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Evaluar la eficiencia de los procesos empresariales
+    - "Verificar la seguridad y la confidencialidad de la informaci\xF3n"
+    - Evaluar la efectividad de los controles financieros
+    - "Evaluar el desempe\xF1o de los empleados"
+    correctAns: "Verificar la seguridad y la confidencialidad de la informaci\xF3n"
+  - questionInfo: "\xBFQu\xE9 es un plan de evaluaci\xF3n de sistemas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Un documento que describe las pol\xEDticas y procedimientos de seguridad de
+      los sistemas"
+    - "Un documento que describe el proceso de auditor\xEDa de sistemas"
+    - "Un documento que describe los objetivos y el alcance de una evaluaci\xF3n
+      de sistemas"
+    - "Un documento que describe las funciones y responsabilidades del equipo de
+      evaluaci\xF3n de sistemas"
+    correctAns: "Un documento que describe los objetivos y el alcance de una evaluaci\xF3n
+      de sistemas"
+  - questionInfo: "\xBFQu\xE9 es la virtualizaci\xF3n de servidores?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "La creaci\xF3n de m\xFAltiples servidores l\xF3gicos en un solo servidor f\xEDsico"
+    - El proceso de hacer que un servidor sea inaccesible a usuarios no autorizados
+    - "La creaci\xF3n de una red virtual de servidores conectados en la nube"
+    - El proceso de hacer que un servidor pueda ser accedido desde cualquier lugar
+      del mundo
+    correctAns: "La creaci\xF3n de m\xFAltiples servidores l\xF3gicos en un solo
+      servidor f\xEDsico"
+  - questionInfo: "\xBFCu\xE1l es la funci\xF3n principal de un centro de datos?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Almacenar y proteger datos sensibles
+    - "Alojar servidores y otros dispositivos relacionados con los servicios inform\xE1ticos
+      de una empresa"
+    - "Ofrecer servicios inform\xE1ticos en la nube"
+    - "Analizar datos y generar informes \xFAtiles"
+    correctAns: "Alojar servidores y otros dispositivos relacionados con los servicios
+      inform\xE1ticos de una empresa"
+  - questionInfo: "\xBFQu\xE9 funci\xF3n realizan los compiladores y los int\xE9rpretes?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Son programas espec\xEDficos que nos ayudan a programar tareas rutinarias"
+    - "Traducen autom\xE1ticamente un programa escrito en lenguaje de alto nivel
+      a lenguaje m\xE1quina"
+    - Ejecutan las instrucciones de un programa
+    - Todas las anteriores
+    correctAns: "Traducen autom\xE1ticamente un programa escrito en lenguaje de alto
+      nivel a lenguaje m\xE1quina"
+  - questionInfo: "\xBFCu\xE1l es la fase del compilador que genera un c\xF3digo
+      que no corresponde ni al lenguaje de entrada ni al lenguaje de salida del compilador?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "An\xE1lisis l\xE9xico"
+    - "An\xE1lisis sint\xE1ctico"
+    - "Generador de c\xF3digo intermedio"
+    - "Generador de c\xF3digo objeto"
+    correctAns: "Generador de c\xF3digo intermedio"
+  - questionInfo: "\xBFC\xF3mo se realiza el dise\xF1o del software?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Con la ayuda de toda la informaci\xF3n recogida sobre requisitos y an\xE1lisis"
+    - "Con la ayuda de toda informaci\xF3n y an\xE1lisis"
+    - "Sin ayuda de toda la informaci\xF3n recogida sobre requisitos y an\xE1lisis"
+    - Ninguna de las anteriores
+    correctAns: "Con la ayuda de toda la informaci\xF3n recogida sobre requisitos
+      y an\xE1lisis"
+  - questionInfo: "La evaluaci\xF3n y validaci\xF3n del programa consta de:"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Evaluaci\xF3n esperada"
+    - Prueba piloto
+    - "Evaluaci\xF3n pedag\xF3gica"
+    - Todas las anteriores
+    correctAns: Prueba piloto

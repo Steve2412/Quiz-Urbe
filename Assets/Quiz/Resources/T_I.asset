@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: T_I
+  m_EditorClassIdentifier: 
+  categoryName: Test I
+  questions:
+  - questionInfo: "\xBFQu\xE9 se obtiene al calcular el determinante de una matriz?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Una matriz inversa
+    - Una matriz transpuesta
+    - "Un n\xFAmero escalar"
+    - Una matriz reducida por filas
+    correctAns: "Un n\xFAmero escalar."
+  - questionInfo: "\xBFCu\xE1l de las siguientes opciones es la definici\xF3n correcta
+      de una matriz?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Una ecuaci\xF3n con un conjunto de soluciones"
+    - "Una lista ordenada de n\xFAmeros"
+    - "Un par de n\xFAmeros que indican ubicaci\xF3n en un plano"
+    - "Una funci\xF3n que convierte n\xFAmeros complejos en n\xFAmeros reales"
+    correctAns: "Una lista ordenada de n\xFAmeros"
+  - questionInfo: "\xBFCu\xE1l es la regla de la cadena en c\xE1lculo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Una herramienta para calcular l\xEDmites de funciones"
+    - "Una t\xE9cnica para integrar funciones trigonom\xE9tricas"
+    - "Una regla que nos permite calcular la derivada de una funci\xF3n compuesta"
+    - "Una f\xF3rmula para calcular el \xE1rea bajo una curva"
+    correctAns: "Una regla que nos permite calcular la derivada de una funci\xF3n
+      compuesta"
+  - questionInfo: "\xBFCu\xE1l es la definici\xF3n de la derivada de una funci\xF3n?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "El valor de la funci\xF3n en un punto dado"
+    - "La pendiente de la recta tangente a la funci\xF3n en un punto dado"
+    - "El \xE1rea limitada por la funci\xF3n en un intervalo dado"
+    - "La interceptaci\xF3n de la funci\xF3n en el eje x"
+    correctAns: "La pendiente de la recta tangente a la funci\xF3n en un punto dado"
+  - questionInfo: "\xBFCu\xE1l es el \xE1rea de un tri\xE1ngulo cuya base mide 6
+      metros y la altura mide 8 metros?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 24 metros cuadrados
+    - 20 metros cuadrados
+    - 32 metros cuadrados
+    - 48 metros cuadrados
+    correctAns: 20 metros cuadrados
+  - questionInfo: "\xBFCu\xE1l es la f\xF3rmula para el \xE1rea de un c\xEDrculo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - pi x r^2
+    - 2 x pi x r
+    - pi x r
+    - r^2
+    correctAns: pi x r^2
+  - questionInfo: "\xBFQu\xE9 es un dise\xF1o de investigaci\xF3n?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "El plan global para llevar a cabo una investigaci\xF3n"
+    - "Una lista detallada de tareas para realizar una investigaci\xF3n"
+    - "Una descripci\xF3n de los instrumentos a utilizar en la investigaci\xF3n"
+    - "Un an\xE1lisis detallado de los resultados previstos de la investigaci\xF3n"
+    correctAns: "El plan global para llevar a cabo una investigaci\xF3n"
+  - questionInfo: "\xBFCu\xE1l es el m\xE9todo cient\xEDfico utilizado en la investigaci\xF3n?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Observaci\xF3n, an\xE1lisis, conclusi\xF3n"
+    - "Conclusi\xF3n, an\xE1lisis, observaci\xF3n"
+    - "An\xE1lisis, observaci\xF3n, conclusi\xF3n"
+    - "Observaci\xF3n, hip\xF3tesis, experimentaci\xF3n, an\xE1lisis, conclusi\xF3n"
+    correctAns: "Observaci\xF3n, hip\xF3tesis, experimentaci\xF3n, an\xE1lisis, conclusi\xF3n"
+  - questionInfo: "\xBFCu\xE1l es la habilidad cognitiva que permite a una persona
+      comprender el significado de las palabras?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Memoria
+    - "Atenci\xF3n"
+    - "Percepci\xF3n"
+    - "Comprensi\xF3n verbal"
+    correctAns: Pasado perfecto
+  - questionInfo: "\xBFCu\xE1l de las siguientes es una habilidad importante en la
+      resoluci\xF3n de conflictos?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Evitar el conflicto a toda costa
+    - Ser inflexible y no ceder nunca
+    - Comunicar claramente los sentimientos y necesidades
+    - "Tomar una posici\xF3n de poder y control"
+    correctAns: Comunicar claramente los sentimientos y necesidades

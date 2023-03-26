@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: T_VI
+  m_EditorClassIdentifier: 
+  categoryName: Test VI
+  questions:
+  - questionInfo: "\xBFCu\xE1l es uno de los principales objetivos de la gesti\xF3n
+      de la calidad? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Maximizar las ganancias de la empresa
+    - "Minimizar los costos de producci\xF3n"
+    - Satisfacer las necesidades y expectativas del cliente
+    - "Acelerar el tiempo de producci\xF3n"
+    correctAns: Satisfacer las necesidades y expectativas del cliente
+  - questionInfo: "\xBFCu\xE1l de las siguientes cl\xE1usulas del lenguaje SQL se
+      utiliza para filtrar datos en una consulta?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - FROM
+    - ORDER BY
+    - GROUP BY
+    - WHERE
+    correctAns: WHERE
+  - questionInfo: "\xBFCu\xE1l es el verbo modal utilizado para expresar obligaci\xF3n
+      o necesidad en ingl\xE9s? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Can
+    - Should
+    - Must
+    - May
+    correctAns: Must
+  - questionInfo: "\xBFCu\xE1l de las siguientes es una t\xE9cnica utilizada para
+      estimar la duraci\xF3n de las actividades en un proyecto? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Planificaci\xF3n \xE1gil"
+    - Diagrama de Gantt
+    - "An\xE1lisis del valor ganado"
+    - PERT (Program Evaluation and Review Technique)
+    correctAns: PERT (Program Evaluation and Review Technique)
+  - questionInfo: "\xBFCu\xE1l de las siguientes herramientas de gesti\xF3n de bases
+      de datos se utiliza para la realizaci\xF3n de copias de seguridad? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - SQL Server
+    - MySQL
+    - Oracle
+    - PostgreSQL
+    correctAns: SQL Server
+  - questionInfo: "\xBFCu\xE1l es la funci\xF3n SQL utilizada para eliminar datos
+      de una tabla? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - INSERT
+    - DELETE
+    - DROP
+    - UPDATE
+    correctAns: DELETE
+  - questionInfo: "\xBFCu\xE1l es el tipo de dato utilizado para representar valores
+      booleanos en Python? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Integer
+    - Boolean
+    - Double
+    - None
+    correctAns: Boolean
+  - questionInfo: "\xBFCu\xE1l es el operador utilizado en Python para la concatenaci\xF3n
+      de cadenas de caracteres? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - '&'
+    - //
+    - '*'
+    - +
+    correctAns: +
+  - questionInfo: "\xBFCu\xE1l de las siguientes t\xE9cnicas de gesti\xF3n de riesgos
+      inform\xE1ticos se utiliza para aceptar los riesgos que no se pueden evitar
+      o transferir? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Mitigaci\xF3n"
+    - Transferencia
+    - "Aceptaci\xF3n"
+    - "Evitaci\xF3n"
+    correctAns: "Aceptaci\xF3n"
+  - questionInfo: "\xBFCu\xE1l de las siguientes herramientas de programaci\xF3n
+      de Python se utiliza para la manipulaci\xF3n de gr\xE1ficos y visualizaci\xF3n
+      de datos? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Pygame
+    - Matplotlib
+    - Numpy
+    - Scipy
+    correctAns: Matplotlib

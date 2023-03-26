@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: T_III
+  m_EditorClassIdentifier: 
+  categoryName: Test II
+  questions:
+  - questionInfo: "\xBFCu\xE1l es la definici\xF3n de l\xEDmite triple de una funci\xF3n
+      f(x,y,z)?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Siempre existe y es finito
+    - Existe o es infinito
+    - Es un producto de dos funciones f(x,y)g(z)
+    - No existe
+    correctAns: Existe o es infinito
+  - questionInfo: "\xBFCu\xE1l es el teorema de la divergencia?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Relaciona la integral de una funci\xF3n vectorial en una superficie cerrada
+      con la integral de su divergencia en su interior"
+    - "Establece que la integral de una funci\xF3n vectorial en una superficie abierta
+      es igual a la integral de su campo normal en su borde"
+    - "Establece la relaci\xF3n entre la derivada parcial de una funci\xF3n compuesta
+      y las derivadas parciales de sus componentes"
+    - Ninguna de las anteriores
+    correctAns: "Relaciona la integral de una funci\xF3n vectorial en una superficie
+      cerrada con la integral de su divergencia en su interior"
+  - questionInfo: "\xBFC\xF3mo se llama el proceso de separaci\xF3n de un s\xF3lido
+      disuelto en un l\xEDquido mediante el uso de una membrana semipermeable?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Destilaci\xF3n"
+    - "Filtraci\xF3n"
+    - Osmosis inversa
+    - "Extracci\xF3n"
+    correctAns: Osmosis inversa
+  - questionInfo: "\xBFCu\xE1l es la f\xF3rmula molecular del di\xF3xido de carbono?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - CO2
+    - H2O
+    - C2H6
+    - CH4
+    correctAns: CO2
+  - questionInfo: "\xBFCu\xE1l es la ley de la electrost\xE1tica que establece que
+      la fuerza entre dos cargas el\xE9ctricas es inversamente proporcional al cuadrado
+      de la distancia entre ellas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ley de Ohm
+    - Ley de Coulomb
+    - Ley de Faraday
+    - "Ley de Amp\xE8re"
+    correctAns: Ley de Coulomb
+  - questionInfo: "\xBFCu\xE1l es el concepto de flujo magn\xE9tico?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "La cantidad de carga el\xE9ctrica que atraviesa un \xE1rea en un determinado
+      tiempo"
+    - "La acumulaci\xF3n de cargas el\xE9ctricas en un conductor"
+    - "La cantidad de l\xEDneas de campo magn\xE9tico que atraviesan un \xE1rea en
+      un determinado tiempo"
+    - "La capacidad de un conductor para resistir el paso de corriente el\xE9ctrica"
+    correctAns: "La cantidad de l\xEDneas de campo magn\xE9tico que atraviesan un
+      \xE1rea en un determinado tiempo"
+  - questionInfo: "\xBFCu\xE1l es el pasado simple del verbo \"to be\"?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - am
+    - are
+    - was
+    - were
+    correctAns: was
+  - questionInfo: "\xBFQu\xE9 tiempo verbal se utiliza para acciones que ocurren
+      frecuentemente o de manera habitual en el presente?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Presente continuo
+    - Presente perfecto
+    - Presente simple
+    - Presente progresivo
+    correctAns: Presente simple
+  - questionInfo: "\xBFCu\xE1l es el beneficio de la actividad f\xEDsica para la
+      salud cardiovascular?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fortalece los huesos
+    - Aumenta la densidad muscular
+    - "Reduce el riesgo de enfermedades del coraz\xF3n"
+    - Mejora la salud mental
+    correctAns: "Reduce el riesgo de enfermedades del coraz\xF3n"
+  - questionInfo: "\xBFCu\xE1l es uno de los beneficios de la actividad f\xEDsica
+      para la salud mental?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Aumento del riesgo de depresi\xF3n"
+    - "Disminuci\xF3n de la autoestima"
+    - "Reducci\xF3n del estr\xE9s y la ansiedad"
+    - "Problemas para conciliar el sue\xF1o"
+    correctAns: "Reducci\xF3n del estr\xE9s y la ansiedad"

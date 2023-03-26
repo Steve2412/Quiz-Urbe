@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: T_XI
+  m_EditorClassIdentifier: 
+  categoryName: Test XI
+  questions:
+  - questionInfo: "\xBFQu\xE9 es la simulaci\xF3n de sistemas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Un m\xE9todo para crear modelos matem\xE1ticos de sistemas complejos"
+    - "Un proceso mediante el cual se crean modelos de sistemas utilizando tecnolog\xEDas
+      de realidad virtual"
+    - "Un enfoque para la resoluci\xF3n de problemas que se basa en la simulaci\xF3n
+      de experimentos en la vida real"
+    - "Un m\xE9todo para identificar los problemas de un sistema y probar posibles
+      soluciones"
+    correctAns: "Un m\xE9todo para crear modelos matem\xE1ticos de sistemas complejos"
+  - questionInfo: "\xBFCu\xE1l es un ejemplo com\xFAn de simulaci\xF3n de sistemas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "La simulaci\xF3n de los efectos del cambio clim\xE1tico en la agricultura"
+    - "La simulaci\xF3n de un juego de computadora en la que los jugadores compiten"
+    - "La simulaci\xF3n de un modelo de negocio en un entorno virtual"
+    - "La simulaci\xF3n de una red de computadoras para identificar problemas de
+      seguridad"
+    correctAns: "La simulaci\xF3n de los efectos del cambio clim\xE1tico en la agricultura"
+  - questionInfo: "\xBFQu\xE9 es la capacidad emprendedora?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - La habilidad de generar nuevas ideas de negocio
+    - La habilidad de tomar riesgos y actuar para crear un negocio exitoso
+    - La habilidad de liderar un equipo de trabajo
+    - La habilidad de gestionar eficientemente los recursos financieros de un negocio
+    correctAns: La habilidad de tomar riesgos y actuar para crear un negocio exitoso
+  - questionInfo: "\xBFCu\xE1l es la importancia de la planificaci\xF3n en el desarrollo
+      de una empresa?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "La planificaci\xF3n ayuda a establecer objetivos claros y a desarrollar una
+      estrategia efectiva"
+    - "La planificaci\xF3n ayuda a aumentar la productividad de la empresa"
+    - "La planificaci\xF3n ayuda a reducir los costos de producci\xF3n"
+    - "La planificaci\xF3n es una actividad innecesaria que consume tiempo y recursos"
+    correctAns: "La planificaci\xF3n ayuda a establecer objetivos claros y a desarrollar
+      una estrategia efectiva"
+  - questionInfo: "\xBFQu\xE9 es la virtualizaci\xF3n de servidores?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "La creaci\xF3n de m\xFAltiples servidores l\xF3gicos en un solo servidor f\xEDsico"
+    - El proceso de hacer que un servidor sea inaccesible a usuarios no autorizados
+    - "La creaci\xF3n de una red virtual de servidores conectados en la nube"
+    - El proceso de hacer que un servidor pueda ser accedido desde cualquier lugar
+      del mundo
+    correctAns: "La creaci\xF3n de m\xFAltiples servidores l\xF3gicos en un solo
+      servidor f\xEDsico"
+  - questionInfo: "\xBFCu\xE1l es la funci\xF3n principal de un centro de datos?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Almacenar y proteger datos sensibles
+    - "Alojar servidores y otros dispositivos relacionados con los servicios inform\xE1ticos
+      de una empresa"
+    - "Ofrecer servicios inform\xE1ticos en la nube"
+    - "Analizar datos y generar informes \xFAtiles"
+    correctAns: "Alojar servidores y otros dispositivos relacionados con los servicios
+      inform\xE1ticos de una empresa"
+  - questionInfo: "\xBFQu\xE9 es un firewall?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Un dispositivo de red que proporciona conectividad a Internet
+    - "Un dispositivo de red que filtra y controla el tr\xE1fico de red entrante
+      y saliente"
+    - "Un dispositivo de red que almacena los datos en cach\xE9 para mejorar el rendimiento
+      de la red"
+    - "Un dispositivo de red que gestiona la seguridad de la red inal\xE1mbrica"
+    correctAns: "Un dispositivo de red que filtra y controla el tr\xE1fico de red
+      entrante y saliente"
+  - questionInfo: "\xBFQu\xE9 es un plan de dise\xF1o de red?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Una descripci\xF3n de c\xF3mo se conectar\xE1n y comunicar\xE1n entre s\xED
+      los dispositivos de la red"
+    - Una lista de componentes de hardware y software necesarios para construir una
+      red
+    - "Una documentaci\xF3n detallada de cada dispositivo de red y su configuraci\xF3n"
+    - Todas las anteriores
+    correctAns: "Una descripci\xF3n de c\xF3mo se conectar\xE1n y comunicar\xE1n
+      entre s\xED los dispositivos de la red"
+  - questionInfo: "\xBFQu\xE9 es la responsabilidad social corporativa (RSC)?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "La \xE9tica se refiere a los valores y principios morales que gu\xEDan el
+      comportamiento humano, mientras que la deontolog\xEDa se refiere a las reglas
+      y normas que rigen la conducta profesional"
+    - "La \xE9tica se refiere a las reglas y normas que rigen la conducta profesional,
+      mientras que la deontolog\xEDa se refiere a los valores y principios morales
+      que gu\xEDan el comportamiento humano"
+    - "La \xE9tica y la deontolog\xEDa son t\xE9rminos intercambiables que se refieren
+      a lo mismo"
+    - Ninguna de las anteriores
+    correctAns: "La \xE9tica se refiere a los valores y principios morales que gu\xEDan
+      el comportamiento humano, mientras que la deontolog\xEDa se refiere a las reglas
+      y normas que rigen la conducta profesional"
+  - questionInfo: "\xBFQu\xE9 es el c\xF3digo de \xE9tica y por qu\xE9 es importante
+      en el lugar de trabajo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "El c\xF3digo de \xE9tica es una lista de reglas y regulaciones que rigen el
+      comportamiento de los empleados en el lugar de trabajo"
+    - "El c\xF3digo de \xE9tica es una declaraci\xF3n p\xFAblica de los valores y
+      expectativas \xE9ticas de la organizaci\xF3n"
+    - "El c\xF3digo de \xE9tica es una lista de sanciones para los empleados que
+      no cumplen con los est\xE1ndares \xE9ticos de la organizaci\xF3n"
+    - Ninguna de las anteriores
+    correctAns: "El c\xF3digo de \xE9tica es una declaraci\xF3n p\xFAblica de los
+      valores y expectativas \xE9ticas de la organizaci\xF3n"

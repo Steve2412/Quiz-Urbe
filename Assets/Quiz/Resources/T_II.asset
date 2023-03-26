@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: T_II
+  m_EditorClassIdentifier: 
+  categoryName: Test II
+  questions:
+  - questionInfo: "\xBFCu\xE1l es la regla de la suma para integrales definidas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - La integral de una constante es la constante por la variable independiente
+    - La integral de una suma de funciones es la suma de las integrales de las funciones
+    - "La integral del producto de dos funciones es igual a la integral de una de
+      las funciones m\xE1s la integral de la otra funci\xF3n"
+    - "La integral de una funci\xF3n dividida por otra es igual a la integral de
+      la funci\xF3n multiplicada por el inverso de la otra funci\xF3n"
+    correctAns: La integral de una suma de funciones es la suma de las integrales
+      de las funciones
+  - questionInfo: "\xBFCu\xE1l es el m\xE9todo de integraci\xF3n por sustituci\xF3n?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Un m\xE9todo para integrar funciones que se obtienen al multiplicar dos funciones"
+    - "Un m\xE9todo para integrar funciones que se obtienen al dividir dos funciones"
+    - "Un m\xE9todo para integrar funciones que se obtienen al diferenciar una funci\xF3n
+      compuesta"
+    - "Un m\xE9todo para integrar funciones que se obtienen al sustituir una variable
+      por una expresi\xF3n m\xE1s sencilla"
+    correctAns: "Un m\xE9todo para integrar funciones que se obtienen al sustituir
+      una variable por una expresi\xF3n m\xE1s sencilla"
+  - questionInfo: "\xBFCu\xE1l es un punto de anclaje en un programa de dibujo vectorial?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 'Una herramienta para recortar formas '
+    - "Un punto que se puede editar para cambiar la forma o tama\xF1o de un objeto"
+    - "Un efecto que a\xF1ade una sombra a un objeto"
+    - La herramienta que se utiliza para dibujar formas
+    correctAns: "Un punto que se puede editar para cambiar la forma o tama\xF1o de
+      un objeto"
+  - questionInfo: "\xBFQu\xE9 es el dibujo isom\xE9trico?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Una t\xE9cnica de dibujo que muestra objetos tridimensionales en una perspectiva
+      realista"
+    - "Una t\xE9cnica de dibujo que muestra objetos en una vista frontal, superior
+      y lateral"
+    - "Una t\xE9cnica de dibujo que muestra objetos en una vista a\xE9rea"
+    - "Una t\xE9cnica de dibujo que muestra objetos tridimensionales en una perspectiva
+      no realista, pero con \xE1ngulos de 120 grados"
+    correctAns: "Una t\xE9cnica de dibujo que muestra objetos tridimensionales en
+      una perspectiva no realista, pero con \xE1ngulos de 120 grados"
+  - questionInfo: "\xBFQu\xE9 es el trabajo en f\xEDsica?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fuerza aplicada sobre una distancia
+    - "Energ\xEDa cin\xE9tica de un objeto en movimiento"
+    - "Energ\xEDa potencial almacenada en una fuerza"
+    - Fuerza que se opone al movimiento
+    correctAns: Fuerza aplicada sobre una distancia
+  - questionInfo: "\xBFCu\xE1l es la velocidad media?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - La distancia total recorrida dividida por el tiempo total
+    - "La velocidad instant\xE1nea en un momento determinado"
+    - "La velocidad de un objeto en su punto m\xE1s alto"
+    - La velocidad del objeto en el momento en que se detiene
+    correctAns: La distancia total recorrida dividida por el tiempo total
+  - questionInfo: "\xBFQu\xE9 es un dise\xF1o de investigaci\xF3n?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Hacia el este
+    - Hacia el oeste
+    - Hacia arriba
+    - "No hay humo en un tren el\xE9ctrico"
+    correctAns: "No hay humo en un tren el\xE9ctrico"
+  - questionInfo: "\xBFPara qu\xE9 se utiliza un bucle?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Para almacenar datos
+    - "Para realizar operaciones matem\xE1ticas"
+    - "Para repetir una secci\xF3n de c\xF3digo varias veces"
+    - Ninguna de las anteriores
+    correctAns: "Para repetir una secci\xF3n de c\xF3digo varias veces"
+  - questionInfo: "\xBFQu\xE9 es un algoritmo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Una herramienta para construir programas
+    - Un problema complejo que debe resolverse
+    - "Una secuencia l\xF3gica de pasos que resuelve un problema"
+    - "Un archivo que contiene c\xF3digo fuente en un lenguaje de programaci\xF3n"
+    correctAns: "Una secuencia l\xF3gica de pasos que resuelve un problema"
+  - questionInfo: "\xBFQu\xE9 significa \"IDE\" en programaci\xF3n?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - '"Integrated Development Environment" (Entorno de Desarrollo Integrado)'
+    - '"Interactive Development Environment" (Entorno de Desarrollo Interactivo)'
+    - "\"Interactive Design Environment\" (Entorno de Dise\xF1o Interactivo)"
+    - Ninguna de las anteriores
+    correctAns: '"Integrated Development Environment" (Entorno de Desarrollo Integrado)'
