@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class QuizManager : MonoBehaviour
+public class QuizManager1 : MonoBehaviour
 {
 #pragma warning disable 649
     //ref to the QuizGameUI script
@@ -51,6 +51,7 @@ public class QuizManager : MonoBehaviour
         button_return.gameObject.SetActive(false);
         changingText.gameObject.SetActive(false);
         changingText_2.gameObject.SetActive(false);
+
 
     }
 
@@ -105,7 +106,7 @@ public class QuizManager : MonoBehaviour
             //Yes, Ans is correct
             correctAnswerCount++;
             correct = true;
-            gameScore += 50;
+            gameScore += 20;
             currentTime += 5;
             quizGameUI.ScoreText.text = "Score:" + gameScore;
         }
@@ -141,7 +142,7 @@ public class QuizManager : MonoBehaviour
 
     private void GameEnd()
     {
-        if (gameScore <= 250)
+        if (gameScore <= 500)
         {
             gameStatus = GameStatus.NEXT;
             quizGameUI.GameOverPanel.SetActive(true);
@@ -161,33 +162,4 @@ public class QuizManager : MonoBehaviour
         }
 
     }
-}
-
-//Datastructure for storeing the quetions data
-[System.Serializable]
-public class Question
-{
-    public string questionInfo;         //question text
-    public QuestionType questionType;   //type
-    public Sprite questionImage;        //image for Image Type
-    public AudioClip audioClip;         //audio for audio type
-    public UnityEngine.Video.VideoClip videoClip;   //video for video type
-    public List<string> options;        //options to select
-    public string correctAns;           //correct option
-}
-
-[System.Serializable]
-public enum QuestionType
-{
-    TEXT,
-    IMAGE,
-    AUDIO,
-    VIDEO
-}
-
-[SerializeField]
-public enum GameStatus
-{
-    PLAYING,
-    NEXT
 }
